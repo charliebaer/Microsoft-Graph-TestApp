@@ -1,2 +1,2 @@
 # Microsoft-Graph-TestApp
-The app uses Microsoft's Graph API for the Metadata exchange
+The app uses Microsoft's Graph API for performing the Metadata exchange
