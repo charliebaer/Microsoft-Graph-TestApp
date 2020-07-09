@@ -25,3 +25,4 @@ npm start
 ```
 4. Open your browser and navigate to http://localhost:3000. If everything is working, you will see a "Welcome to Express" message.
 
+5.You should be able to see your calender events if your login is successful
